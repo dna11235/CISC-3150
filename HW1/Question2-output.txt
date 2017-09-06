@@ -1,7 +1,0 @@
-For the radius of 21.0 the area is: 1385.4423602330987
-For the radius of 23.0 the area is: 1661.9025137490005
-For the radius of 2.0 the area is: 12.566370614359172
-For the radius of 1.0 the area is: 3.141592653589793
-For the radius of 15.0 the area is: 706.8583470577034
-For the radius of 2.5 the area is: 19.634954084936208
-For the radius of 2.3 the area is: 16.619025137490002
