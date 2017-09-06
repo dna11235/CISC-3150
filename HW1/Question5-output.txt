@@ -1,0 +1,30 @@
+Determine Real Triangle
+Please enter coordinates in format: X Y
+Please enter point A: 
+Please enter point B: 
+Please enter point C: 
+Point A: (2.0, 12.0) Point B: (2.0, 1.0) Point C: (0.0, 0.0) 
+Side AB: (11.0) Side AC: (12.165525060596439) Side BC: (2.23606797749979)
+The triangle is real
+Another triangle (Y/N)? 
+Please enter point A: 
+Please enter point B: 
+Please enter point C: 
+Point A: (10.0, 20.0) Point B: (20.0, 10.0) Point C: (-10.0, 20.0) 
+Side AB: (14.142135623730951) Side AC: (20.0) Side BC: (31.622776601683793)
+The triangle is real
+Another triangle (Y/N)? 
+Please enter point A: 
+Please enter point B: 
+Please enter point C: 
+Point A: (0.0, 0.0) Point B: (0.0, 0.0) Point C: (0.0, 0.0) 
+Side AB: (0.0) Side AC: (0.0) Side BC: (0.0)
+The triangle is fake
+Another triangle (Y/N)? 
+Please enter point A: 
+Please enter point B: 
+Please enter point C: 
+Point A: (5.0, 5.0) Point B: (5.0, 5.0) Point C: (5.0, 5.0) 
+Side AB: (0.0) Side AC: (0.0) Side BC: (0.0)
+The triangle is fake
+Another triangle (Y/N)? 

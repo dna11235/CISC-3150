@@ -1,0 +1,14 @@
+Calculate area of a circle.
+Please enter radius:
+For the radius of 4.0 the area is: 50.26548245743669
+Please enter radius:
+For the radius of 7.0 the area is: 153.93804002589985
+Please enter radius:
+For the radius of 9.0 the area is: 254.46900494077323
+Please enter radius:
+For the radius of 14.0 the area is: 615.7521601035994
+Please enter radius:
+For the radius of 20.0 the area is: 1256.6370614359173
+Please enter radius:
+For the radius of 1.0 the area is: 3.141592653589793
+Please enter radius:

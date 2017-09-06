@@ -1,0 +1,56 @@
+Check whether two circles are overlapping
+Please enter coordinates in format: X Y
+Enter coordinates for the center of circle 1: 
+Enter radius for circle 1: 
+Enter coordinates for the center of circle 2: 
+Enter radius for circle 2: 
+Circle 1 coordinates: (5.0, 10.0) Radius: 5.0
+Circle 2 coordinates: (5.0, 5.0) Radius: 5.0
+Distance between points: 5.0
+Circles are overlapping
+Do you have another pair of circles to enter (Y for yes)?
+Enter coordinates for the center of circle 1: 
+Enter radius for circle 1: 
+Enter coordinates for the center of circle 2: 
+Enter radius for circle 2: 
+Circle 1 coordinates: (5.0, 10.0) Radius: 5.0
+Circle 2 coordinates: (5.0, 10.0) Radius: 5.0
+Distance between points: 0.0
+Circles are identical
+Do you have another pair of circles to enter (Y for yes)?
+Enter coordinates for the center of circle 1: 
+Enter radius for circle 1: 
+Enter coordinates for the center of circle 2: 
+Enter radius for circle 2: 
+Circle 1 coordinates: (5.0, 10.0) Radius: 2.5
+Circle 2 coordinates: (5.0, 5.0) Radius: 2.5
+Distance between points: 5.0
+Circles are touching each other
+Do you have another pair of circles to enter (Y for yes)?
+Enter coordinates for the center of circle 1: 
+Enter radius for circle 1: 
+Enter coordinates for the center of circle 2: 
+Enter radius for circle 2: 
+Circle 1 coordinates: (5.0, 10.0) Radius: 20.0
+Circle 2 coordinates: (5.0, 5.0) Radius: 2.0
+Distance between points: 5.0
+Circle 2 within circle 1
+Do you have another pair of circles to enter (Y for yes)?
+Enter coordinates for the center of circle 1: 
+Enter radius for circle 1: 
+Enter coordinates for the center of circle 2: 
+Enter radius for circle 2: 
+Circle 1 coordinates: (5.0, 10.0) Radius: 2.0
+Circle 2 coordinates: (5.0, 5.0) Radius: 20.0
+Distance between points: 5.0
+Circle 1 within circle 2
+Do you have another pair of circles to enter (Y for yes)?
+Enter coordinates for the center of circle 1: 
+Enter radius for circle 1: 
+Enter coordinates for the center of circle 2: 
+Enter radius for circle 2: 
+Circle 1 coordinates: (5.0, 10.0) Radius: 2.0
+Circle 2 coordinates: (5.0, 5.0) Radius: 2.0
+Distance between points: 5.0
+Circles are separate from each other
+Do you have another pair of circles to enter (Y for yes)?
