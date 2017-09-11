@@ -1,0 +1,8 @@
+Enter a word: 
+The word spartan is not a palindrome
+Enter a word: 
+The word madamimadam is palindrome
+Enter a word: 
+The word madammadam is palindrome
+Enter a word: 
+The word madamiadam is not a palindrome

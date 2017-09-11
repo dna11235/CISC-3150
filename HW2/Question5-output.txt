@@ -1,0 +1,12 @@
+Enter words separated by ",": 
+Denver
+ Moscow
+ New York
+ Tokyo
+ Paris
+Madrid
+Whashigton D.C.
+Athenes
+
+
+
