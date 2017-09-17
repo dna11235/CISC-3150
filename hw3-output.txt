@@ -1,0 +1,16 @@
+Enter words: 
+MyString is: New York
+Length of MyString is: 8
+Enter index: 
+Value at 5 is: o
+Enter indexes of new string from and to in format: A B > 
+Your input: 4 7
+New substring is: York
+Uppercase is: NEW YORK
+Lowercase is: new york
+Enter integer value to convert: 
+Value of 657832 is: 657832 with the length: 6
+Enter word to compare: 
+New York equals new york: false
+Another word to compare: 
+New York equals New York: true
