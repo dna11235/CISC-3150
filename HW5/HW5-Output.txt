@@ -1,0 +1,11 @@
+Please enter radius: 
+Value entered: 6.0
+Circle area: 28.274333882308138
+Quadrant area: 36.0
+Proper ratio: 0.7853981633974483
+Proper PI: 3.141592653589793
+Dots fell inside circle: 3141622730
+Dots fell outside circle: 858377270
+Calculated ratio: 0.7854056825
+Calculated PI: 3.14162273
+Time in the loop: 386.544 seconds
