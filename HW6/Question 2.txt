@@ -1,0 +1,47 @@
+Nikita Dmitriev - Homework 6
+Question 2 - Question 1 from: http://www.usna.edu/Users/cs/wcbrown/courses/S11IC211/classes/L12/HW/Homework.html
+
+A) 
+	What: overloaded method call() inside Dog class executed
+	Output: Woof, woof, woof!
+	Example of: Overloading
+
+B)
+	What: overrided method toString() inside Cat class executed
+	Output: I'm a cat, go away!
+	Example of: Polymorphism, Overriding
+
+C)
+	What: Error, Object doesn't have method call()
+	Output: Error
+	Example of: Error
+
+D)
+	What: A method from Object class is called
+	Output: Pet@7dc36524 (some address of this instance)
+	Example of: Polymorphism
+
+E)
+	What: method call() inside Dog class executed
+	Output: woof!
+	Example of: Polymorphism
+
+F)
+	What: overloaded method toString() inside Cat class executed
+	Output: Come here, kitty? ... Don't waste my time.
+	Example of: Overloading
+
+G)
+	What: Error, the Cat class doesn't emplement call() method that accepts integer arguments
+	Output: Error
+	Example of: Error
+
+H)
+	What: Inherited method feet(), inside Dog class executed
+	Output: four
+	Example of: Polymorphism
+
+I)
+	What: Will not compile, Pet doesn't have call() method that accepts int arguments
+	Output: Error
+	Example of: Error
