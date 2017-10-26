@@ -1,0 +1,6 @@
+Because static is serializable it can be written by ObjectOutputStream because of:
+  "Only objects that support the java.io.Serializable interface can be written to streams.
+  The class of each serializable object is encoded including the class name and signature of the class,
+  the values of the object's fields and arrays, 
+  and the closure of any other objects referenced from the initial objects."
+Reference: https://docs.oracle.com/javase/7/docs/api/java/io/ObjectOutputStream.html
