@@ -1,0 +1,7 @@
+This is a logical answer, however I can't find manual that confirms it
+reference: 
+https://stackoverflow.com/questions/15655903/what-really-happens-when-the-a-program-is-paused-by-editmark-from-the-command-l
+
+Mark in command line will suspend thread at stdout if thread will try to execute it. Otherwise all the rest of thread 
+processes will execute as normal (until stdout)
+This makes sense when you trying to copy output, not to have it "running away" from your cursor.
