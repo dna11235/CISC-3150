@@ -24,7 +24,6 @@ class myThread extends Thread{
     private static int turn = 1;         // Keep track which thread has a turn
     private int id;
     private char[] chars;
-    private Semaphore sem = new Semaphore(1);
 
     // Default case
     myThread(char[] chars){
