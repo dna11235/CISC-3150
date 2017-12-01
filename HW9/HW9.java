@@ -1,7 +1,5 @@
 // Nikita Dmitriev - Homework 9 - Threads
 
-import java.util.concurrent.Semaphore;
-
 public class HW9 {
     public static void  main(String[] args){
         char[] arr1 = new char[]{'A', 'E', 'I', 'M', 'Q', 'U', 'Y'};
